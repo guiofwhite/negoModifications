@@ -1,8 +1,8 @@
-body { 
-    background-color: rgb(255, 237, 177) ;
+body {
+    background-color: rgb(255, 237, 177);
 }
 
-.cabecalho{
+.cabecalho {
     background-color: black;
     color: whitesmoke;
     padding-top: 30px;
@@ -13,15 +13,14 @@ body {
     display: flex;
     justify-content: center;
     gap: 30%;
+    font-family: "Changa One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
-#titulo {
+#titulo {}
 
-}
-
-p {
-    
-}
+p {}
 
 .mulheres {
     border-radius: 50%;
@@ -30,22 +29,20 @@ p {
     padding: 20px;
 }
 
-nav{
+nav {}
 
-}
-
-li{
+li {
     display: inline-block;
-   
+
 
 }
 
-li a{
+li a {
     font-size: 30px;
 
 }
 
-button{
+button {
     font-size: 16px;
     color: rgb(255, 0, 132);
 
