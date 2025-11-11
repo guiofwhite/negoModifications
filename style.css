@@ -43,6 +43,7 @@ li {
 li a {
     font-size: 30px;
     text-decoration: none;
+    display: flex;
 }
 
 button {
