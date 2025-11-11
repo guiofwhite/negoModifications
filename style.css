@@ -36,14 +36,13 @@ p {}
 nav {}
 
 li {
-    display: inline-block;
-
+   
 }
 
 li a {
     font-size: 30px;
     text-decoration: none;
-    display: flex;
+    display: ;
 }
 
 button {
