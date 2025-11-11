@@ -37,14 +37,12 @@ nav {}
 
 li {
     display: inline-block;
-    text-decoration: none;
-
 
 }
 
 li a {
     font-size: 30px;
-
+    text-decoration: none;
 }
 
 button {
