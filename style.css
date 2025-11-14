@@ -72,3 +72,8 @@ button {
     display: flex;
     margin-left: 124px;
 }
+
+.botao:hover{
+    transition: 0.5;
+    box-shadow: 0 10px 20px black;
+}
