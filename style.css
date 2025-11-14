@@ -74,6 +74,6 @@ button {
 }
 
 .botao:hover{
-    transition: 0.5;
+    transition: 2.5;
     box-shadow: 0 10px 20px black;
 }
