@@ -1,6 +1,6 @@
 body {
-    width: 370px;
-    height: 1350px;
+    width: 431px;
+    height: 1000px;
     background-image: url(https://www.shutterstock.com/image-photo/grey-gradient-grain-texture-background-600nw-2621868117.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -40,7 +40,7 @@ body {
     border-radius: 50%;
     width: 338px;
     height: 338px;
-    padding: 16px;
+    padding: 46px;
 }
 
 nav {}
