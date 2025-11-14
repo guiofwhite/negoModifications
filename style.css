@@ -37,7 +37,7 @@ a{
 }
 
 .paragrafo{
-   text-align: center;
+   text-align: justify;
    margin-left: 3px;
 }
 
@@ -49,8 +49,6 @@ a{
     padding: 21px;
     margin-left: 28px;
 }
-
-nav {}
 
 li {
    display: inline-block;
