@@ -31,12 +31,13 @@ a{
     font-family: "Changa One", sans-serif;
     font-weight: 400;
     font-style: normal;
-    margin-right: -6px;
+    margin-right: 38px;
     font-size: larger;
 }
 
 .paragrafo{
    text-align: center;
+   margin-right: 50px;
 }
 
 
@@ -44,7 +45,7 @@ a{
     border-radius: 50%;
     width: 338px;
     height: 338px;
-    padding: 46px;
+    padding: 21px;
 }
 
 nav {}
