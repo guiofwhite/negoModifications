@@ -30,7 +30,10 @@ body {
     font-style: normal;
 }
 
-p {}
+p {
+    text-align: center;
+}
+
 
 .mulheres {
     border-radius: 50%;
