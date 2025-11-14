@@ -38,7 +38,7 @@ a{
 
 .paragrafo{
    text-align: center;
-   margin-right: 50px;
+   margin-left: 3px;
 }
 
 
@@ -47,6 +47,7 @@ a{
     width: 338px;
     height: 338px;
     padding: 21px;
+    margin-left: 28px;
 }
 
 nav {}
@@ -70,7 +71,7 @@ button {
     width: 200px;
     height: 36px;
     border-style: none;
-    margin-left: 93px;
+    margin-left: 119px;
     margin-top: 36px;
     box-shadow: 0 20px 30px black;
 }
