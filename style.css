@@ -31,7 +31,7 @@ body {
 }
 
 p {
-    text-align: center;
+   justify-content: center;
 }
 
 
@@ -39,7 +39,7 @@ p {
     border-radius: 50%;
     width: 370px;
     height: 370px;
-    padding: 29px;
+    padding: 16px;
 }
 
 nav {}
