@@ -71,9 +71,11 @@ button {
     height: 197px;
     display: flex;
     margin-left: 124px;
+    transition: 2.5;
 }
 
 .botao:hover{
-    transition: 2.5;
+    background-color: pink;
+    color: white;
     box-shadow: 0 10px 20px black;
 }
