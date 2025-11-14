@@ -66,8 +66,10 @@ button {
     align-items: center;
     border-radius: 20px;
     width: 200px;
-    height: 200px;
+    height: 36px;
     border-style: none;
+    margin-left: 116px;
+    margin-top: 36px;
 
 }
 
