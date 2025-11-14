@@ -70,6 +70,8 @@ button {
     border-style: none;
     margin-left: 116px;
     margin-top: 36px;
+    box-shadow: 0 20px 30px black;
+    color: blue;
 
 }
 
